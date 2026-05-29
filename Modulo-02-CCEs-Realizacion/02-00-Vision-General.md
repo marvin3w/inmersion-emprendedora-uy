@@ -1,60 +1,69 @@
-# Módulo 02 — CCE: conjunto de Realización
+# Módulo 02 — CCE: Conjunto de Realización
 
-> **Módulo:** 02 — Características del Comportamiento Emprendedor (Realización)  
-> **Anterior:** [Módulo 01 — Mentalidad Emprendedora](../Modulo-01-Mentalidad-Emprendedora/01-00-Vision-General.md)  
-> **Próximo:** [Módulo 03 — Planificación](../Modulo-03-CCEs-Planificacion/03-00-Vision-General.md)
+> ← [Módulo 01 — Mentalidad Emprendedora](../Modulo-01-Mentalidad-Emprendedora/01-00-Vision-General.md) · [🏠 Índice](../README.md) · [Módulo 03 — Planificación →](../Modulo-03-CCEs-Planificacion/03-00-Vision-General.md)
 
 ## Qué cubre este módulo
 
-Acá trabajamos las **cinco CCE del conjunto de Realización**, el bloque Empretec que traduce mentalidad emprendedora en **acción recurrente**. Si Planificación ordena el futuro y el conjunto del Poder amplifica tu alcance social, Realización responde a la pregunta más simple y más difícil: **¿podés ejecutar de forma confiable cuando hay incertidumbre y rechazo?**
+Este módulo trabaja las **cinco CCE del conjunto de Realización**: el bloque del marco Empretec que traduce mentalidad emprendedora en **acción recurrente**. Si el conjunto de Planificación ordena el futuro y el conjunto del Poder amplifica tu alcance social, Realización responde a una pregunta central: **¿puedo ejecutar de forma confiable cuando hay incertidumbre?**
 
-El marco de **Características del Comportamiento Emprendedor** fue desarrollado en el programa Empretec apoyado por **UNCTAD** y es utilizado por redes como **Empretec Uruguay** para formación de adultos en contextos heterogéneos (servicios, industria ligera, tecnología, comercio).
+Las **Características del Comportamiento Emprendedor** (CCE) fueron desarrolladas en el programa Empretec, apoyado por UNCTAD, y son utilizadas por redes como Empretec Uruguay para formación de adultos en contextos heterogéneos (servicios, industria, tecnología, comercio).
 
-Las CCE no son rasgos mágicos del ADN: son **conductas observables**, medibles mediante evidencias del día a día (propuestas enviadas, experimentos corridos, compromisos cumplidos, estándares revisados, apuestas dimensionadas).
+Las CCE no son rasgos innatos. Son **conductas observables y entrenables**, medibles mediante evidencias cotidianas: propuestas enviadas, experimentos realizados, compromisos cumplidos, estándares revisados, apuestas dimensionadas.
 
-## Qué son las CCE en una sola página
+## Las cinco CCE de Realización
 
-Imaginate que cada característica es una palanca:
+Cada característica funciona como una palanca:
 
-1. **Oportunidades e iniciativa** — Ensanchás la superficie de suerte porque movés primero y ves patrones donde otros solo ven “cosas que pasan”.
-2. **Persistencia** — Mantenés trayectoria cuando el mundo no aplaude al instante.
-3. **Cumplimiento del compromiso** — Construís reputación cuando tu palabra coincide con tu calendario.
-4. **Exigencia de calidad y eficiencia** — Evitás dos trampas complementarias: el derroche adorable y el peligroso “apurate que después vemos”.
-5. **Riesgos calculados** — Apostás cuando hay método de verificación; huís cuando hay sólo ego herido.
+1. **Búsqueda de oportunidades e iniciativa** — Ampliar la superficie de posibilidades porque te movés primero y detectás patrones donde otros ven solo "cosas que pasan".
+2. **Persistencia** — Mantener la trayectoria cuando los resultados no llegan en línea recta, sin confundir constancia con terquedad.
+3. **Cumplimiento del compromiso** — Construir reputación: que tu palabra coincida con tu calendario.
+4. **Exigencia de calidad y eficiencia** — Evitar dos trampas complementarias: el derroche sin dirección y el "apurarse sin estándar".
+5. **Riesgos calculados** — Apostar cuando hay método de verificación; frenar cuando solo hay impulso.
 
-Realización sin Planificación puede volverse heroísmo caótico; Planificación sin Realización puede volverse PowerPoint eterno. Este módulo equilibra la balanza del **hacer**.
+Realización sin Planificación puede volverse heroísmo caótico; Planificación sin Realización puede volverse planificación eterna sin acción. Este módulo equilibra la balanza del **hacer**.
 
-## Qué vas a lograr al terminar este módulo
+## Qué vas a lograr al terminar
 
-- Nombrar las cinco CCE de Realización y explicar cómo se diferencian sin confundir persistencia con terquedad ni calidad con perfeccionismo paralizante.
-- Diagnosticar tus patrones personales en iniciativa, persistencia, compromiso, estándares y gestión del riesgo con ejemplos recientes.
-- Aplicar herramientas prácticas (diarios de oportunidades, matrices de riesgo, acuerdos explícitos con clientes) adaptadas a tu etapa de negocio.
-- Diseñar experimentos pequeños que reduzcan incertidumbre antes de inversiones grandes.
-- Integrar el vocabulario Empretec con tu trabajo cotidiano para facilitar mentorías y trabajo en equipo.
+- Nombrar las cinco CCE de Realización y explicar cómo se diferencian entre sí.
+- Diagnosticar tus patrones personales (incluso si todavía no tenés un negocio activo) usando situaciones cotidianas como evidencia.
+- Aplicar herramientas prácticas adaptadas a tu etapa: si estás comenzando, trabajás con hipótesis y micro-experimentos; si ya operás, trabajás con datos reales.
+- Diseñar experimentos pequeños que reduzcan incertidumbre antes de comprometer recursos importantes.
+- Integrar el vocabulario Empretec con tu trabajo cotidiano.
 
-## Roteiro
+## Cómo usar este módulo si estás comenzando
+
+Si todavía no tenés un negocio activo, este módulo funciona igual. Las CCE se entrenan con **cualquier proyecto o decisión real**:
+
+- Una búsqueda de trabajo cuenta como ejercicio de iniciativa.
+- Mantener un hábito nuevo durante 30 días es práctica de persistencia.
+- Cumplir un plazo autoimpuesto es entrenamiento de compromiso.
+- Comparar precios antes de una compra importante ejercita riesgo calculado.
+
+Cada documento incluye una sección **"Si estoy empezando desde cero"** con ejercicios adaptados a quien todavía no tiene clientes ni operación.
+
+## Recorrido del módulo
 
 | Documento | CCE | Tiempo estimado |
-|-----------|-----|------------------|
-| [02-01-Busqueda-Oportunidades-Iniciativa.md](./02-01-Busqueda-Oportunidades-Iniciativa.md) | Búsqueda de oportunidades e iniciativa | ~25 minutos |
-| [02-02-Persistencia.md](./02-02-Persistencia.md) | Persistencia | ~25 minutos |
-| [02-03-Compromiso.md](./02-03-Compromiso.md) | Cumplimiento del compromiso | ~25 minutos |
-| [02-04-Calidad-Eficiencia.md](./02-04-Calidad-Eficiencia.md) | Exigencia de calidad y eficiencia | ~25 minutos |
-| [02-05-Riesgos-Calculados.md](./02-05-Riesgos-Calculados.md) | Correr riesgos calculados | ~25 minutos |
+|-----------|-----|-----------------|
+| [02-01 — Búsqueda de oportunidades e iniciativa](./02-01-Busqueda-Oportunidades-Iniciativa.md) | Iniciativa | ~25 min |
+| [02-02 — Persistencia](./02-02-Persistencia.md) | Persistencia | ~25 min |
+| [02-03 — Compromiso](./02-03-Compromiso.md) | Cumplimiento del compromiso | ~25 min |
+| [02-04 — Calidad y eficiencia](./02-04-Calidad-Eficiencia.md) | Exigencia de calidad y eficiencia | ~25 min |
+| [02-05 — Riesgos calculados](./02-05-Riesgos-Calculados.md) | Correr riesgos calculados | ~25 min |
 
-## Para ir más allá
+## Para profundizar
 
-- Manuales y papers **UNCTAD Empretec** sobre diseño curricular de CCE y evidencias cualitativas de cambio conductual.
-- Libros sobre **validación lean** y discovery de producto para conectar iniciativa con método (sin mitificar “fail fast”).
-- Investigación aplicada sobre **resiliencia laboral** para distinguir hábitos sanos de sobrecarga glorificada.
+- Manuales UNCTAD Empretec sobre diseño curricular de CCE.
+- Libros sobre validación lean y descubrimiento de producto para conectar iniciativa con método.
+- Investigación aplicada sobre resiliencia laboral para distinguir hábitos sanos de sobrecarga.
 
 ---
 
 ## Próximo Paso
 
-### [→ Búsqueda de Oportunidades](02-01-Busqueda-Oportunidades-Iniciativa.md)
+### [→ Búsqueda de Oportunidades e Iniciativa](02-01-Busqueda-Oportunidades-Iniciativa.md)
 
 
 ---
 
-*[← Visión Personal y Propósito](../Modulo-01-Mentalidad-Emprendedora/01-03-Vision-Personal-Proposito.md) · [🏠 Índice de la Inmersión](../README.md)*
+*[← Módulo 01 — Mentalidad Emprendedora](../Modulo-01-Mentalidad-Emprendedora/01-00-Vision-General.md) · [🏠 Índice de la Inmersión](../README.md)*

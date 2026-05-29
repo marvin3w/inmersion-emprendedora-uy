@@ -1,111 +1,135 @@
 # Exigencia de calidad y eficiencia
 
-La **exigencia de calidad y eficiencia** une dos fuerzas que muchas startups separan artificialmente: **estándar** y **economía de recursos**. Calidad sin eficiencia puede volverse artesanía cara que no escala; eficiencia sin calidad puede volverse cultura de “pasalo rápido” que destruye confianza.
+> ← [Compromiso](02-03-Compromiso.md) · [🏠 Índice](../README.md) · [Riesgos Calculados →](02-05-Riesgos-Calculados.md)
 
-En Empretec Uruguay trabajamos esta CCE porque los negocios locales compiten por cercanía y reputación más que por branding multimillonario.
+## Qué es esta CCE
 
-## Calidad no es perfeccionismo eterno
+La **exigencia de calidad y eficiencia** une dos fuerzas que muchos emprendimientos separan artificialmente: **estándar** (qué nivel de resultado es aceptable) y **economía de recursos** (cómo lograrlo sin desperdicio).
 
-Calidad operativa significa **cumplir consistemente las expectativas que prometiste**, dentro de límites conocidos:
+- Calidad sin eficiencia puede volverse artesanía cara que no escala.
+- Eficiencia sin calidad puede volverse cultura de "resolverlo rápido" que destruye confianza.
 
-- claridad funcional para el usuario final;
-- defectos menores gestionados sin drama;
-- repetibilidad del proceso base.
+El equilibrio está en cumplir consistentemente las expectativas prometidas, dentro de límites de recurso conocidos.
 
-El perfeccionista bloqueado confunde borrador interno con promesa externa. La salida saludable es separar explícitamente **nivel demo**, **nivel beta**, **nivel producción**.
+## Calidad operativa: qué significa en la práctica
+
+Calidad no es perfeccionismo. Es **cumplir consistentemente lo que prometiste**, con un estándar explícito:
+
+- Claridad funcional para el usuario final (entiende qué recibe y qué no).
+- Defectos menores gestionados sin dramatismo.
+- Repetibilidad del proceso base (si lo hiciste bien una vez, podés hacerlo de nuevo).
+
+**El perfeccionista bloqueado** confunde borrador interno con promesa externa. La salida es separar explícitamente niveles:
+
+| Nivel | Significado | Ejemplo |
+|-------|-------------|---------|
+| Demo | Muestra la idea, no es funcional | Boceto en papel, maqueta verbal |
+| Beta | Funciona pero tiene limitaciones declaradas | Primer servicio con cliente piloto |
+| Producción | Cumple el estándar prometido de forma repetible | Servicio entregado con proceso documentado |
+
+Saber en qué nivel estás evita frustración propia y expectativas falsas del cliente.
 
 ## Eficiencia: hacer más valor con menos desperdicio
 
-Eficiencia no es sólo “ahorrar”; es **eliminar trabajo que no compra resultado**:
+Eficiencia no es solo "ahorrar". Es **eliminar trabajo que no produce resultado**:
 
-- automatizar lo repetible cuando el volumen lo amerita;
-- plantillas para cotizaciones y onboarding;
-- reuniones más cortas con agenda escrita.
+- Automatizar lo repetible cuando el volumen lo amerita.
+- Plantillas para cotizaciones y comunicación frecuente.
+- Reuniones más cortas con propósito escrito antes de empezar.
 
-En Uruguay el costo laboral y tributario invita a pensar eficiencia desde el día uno sin romanticismo.
+En Uruguay el costo laboral y tributario invita a pensar eficiencia desde el día uno.
 
-## Marcos prácticos para etapa startup
+## Árbol de decisión: ¿dónde está mi problema de calidad?
 
-### Definition of Done
+```
+¿Recibiste queja, reclamo o silencio incómodo de un cliente/usuario?
+├── NO → ¿Estás midiendo algo? (tiempo de respuesta, errores, devoluciones)
+│   ├── NO → Empezá a medir 1 cosa esta semana. Sin datos, solo hay impresiones.
+│   └── SÍ → ¿Tu métrica está estable o empeorando?
+│       ├── ESTABLE → Bien. ¿Hay 1 mejora pequeña que puedas hacer este mes?
+│       └── EMPEORANDO → Identificá la causa. Usá el diagnóstico de abajo.
+└── SÍ → ¿El problema es de expectativa o de ejecución?
+    ├── EXPECTATIVA → Prometiste algo que no entregaste. Problema de compromiso (volvé a 02-03).
+    └── EJECUCIÓN → ¿Es un error puntual o un patrón repetido?
+        ├── PUNTUAL → Corregí y seguí. No necesitás reestructurar por 1 error.
+        └── REPETIDO → Hay un defecto de proceso. Documentá cuándo ocurre y diseñá una barrera.
+```
 
-Acordá qué significa “terminado” antes de arrancar cada entrega:
+## Marcos prácticos para etapa temprana
 
-- criterios funcionales;
-- pruebas mínimas;
-- soporte esperado post venta.
+### Definición de "terminado"
+
+Antes de cada entrega, acordá (con vos mismo o con el cliente) qué significa "terminado":
+
+- Criterios funcionales: ¿qué tiene que hacer/incluir?
+- Pruebas mínimas: ¿cómo verifico que funciona?
+- Soporte post-entrega: ¿qué pasa si algo falla después?
 
 ### Checklists simples
 
-Pilotos de avión usan checklists no porque sean tontos sino porque la mente falla con cansancio. Tu PyME también.
+Los pilotos de avión usan checklists no porque no sepan volar, sino porque la mente falla con cansancio. Tu emprendimiento también puede beneficiarse de una lista de 5-7 puntos para cada entrega repetible.
 
-### Métricas de defecto
+### Una mejora por ciclo
 
-Medí tiempo medio de corrección de errores y frecuencia de reclamos por categoría. Sin datos, solo hay opiniones fuertes.
+En lugar de acumular ideas de mejora para "después", elegí una mejora concreta por semana o por mes (según tu ritmo) y ejecutala. Una mejora semanal pequeña acumula más que un plan grande trimestral sin ejecución.
 
-### Kaizen micro
+## Si estoy empezando desde cero
 
-Una mejora diminuta por sprint (embudo comercial, texto de mails, tiempo de respuesta) suma más que un brainstorm gigante trimestral sin ejecución.
+No tenés proceso productivo todavía, pero ya podés pensar en calidad y eficiencia aplicadas a tu preparación.
 
-## Equilibrio entre costo y experiencia
+**Ejercicio adaptado: definir tu estándar mínimo**
 
-Cuando el presión presupuestaria aparece:
+Supongamos que vas a ofrecer un servicio (reforma, instalación, consultoría, lo que sea). Antes de tu primer cliente, respondé:
 
-1. protegé lo que el cliente percibe primero (tiempo de respuesta, claridad del alcance);
-2. diferenciá gastos que mejoran retención versus vanity metrics internas (slides bonitos si nadie compra).
+| Pregunta | Tu respuesta |
+|----------|-------------|
+| ¿Qué incluye el servicio y qué NO incluye? | |
+| ¿En cuánto tiempo entrego? | |
+| ¿Qué pasa si el cliente no queda conforme? | |
+| ¿Cómo sabe el cliente que "terminé"? | |
 
-## Traducción práctica para equipos diminutos
+Si no podés responder alguna, ese es tu primer punto de trabajo. No necesitás un manual de 50 páginas; necesitás claridad en 4 preguntas.
 
-Si sos equipo de una persona más freelancers ocasionales, igual podés usar disciplina tipo equipo:
+**Cadena de diagnóstico: ¿mi proceso es eficiente?**
 
-- checklist compartido en carpeta accesible para colaboradores externos (reduce errores típicos de onboarding improvisado);
-- glosario mini de términos producto/servicio para evitar interpretaciones divergentes que explotan post venta;
-- revisión rápida post cada tres entregas buscando patrón defectuoso repetido más que culpa individual.
+```
+¿Repetís las mismas tareas frecuentemente (cotizar, responder consultas, preparar materiales)?
+├── NO → Todavía no tenés volumen. No te preocupes por eficiencia aún; priorizá calidad.
+└── SÍ → ¿Tenés una plantilla o proceso estándar para esas tareas?
+    ├── SÍ → ¿La actualizaste en los últimos 30 días con lo que aprendiste?
+    │   ├── SÍ → Bien. Estás en mejora continua.
+    │   └── NO → Revisala ahora. ¿Hay un paso que siempre generá problema?
+    └── NO → Creá una plantilla básica esta semana. No tiene que ser perfecta; tiene que existir.
+```
 
-La eficiencia empática también cuenta: comunicaciones cortas pero suficientemente claras reducen idas y vueltas silenciosas carísimas en tiempo founder.
+## Equilibrio entre costo y experiencia del cliente
 
-## Costos ocultos de “apurarse bien” sin definición compartida
+Cuando la presión presupuestaria aparece:
 
-Apurarse puede ser virtud competitiva cuando existe estándar explícito de salida; sin él, puede producir:
-
-- promesas ventas que operaciones no pueden absorber sin sacrificio brutal de sueño saludable;
-- sensación externa de amateurismo si errores aparecen siempre en mismo punto del proceso.
-
-Mitigación típica Empretec: documentá tus tres errores más caros últimos tres meses y mirá si son problema de **calidad percibida**, **timing**, **alcance mal cerrado con cliente**. Ahí aparecen mejoras eficientes más rápidas que contratar más manos sin diagnóstico.
-
-## Relación con reputación digital uruguaya
-
-Aunque seas negocio mayormente físico o B2B privado, fragmentos tu reputación aparecen online (reseñas Google Maps, conversaciones WhatsApp screenshotadas informalmente en comunidades profesionales).
-
-La calidad eficiente incluye política explícita de:
-
-- responder reclamos rápido cuando aparecen públicamente sin entrar en guerra emocional online;
-- pedir testimonio sólo después de experiencia estable cumplida para evitar promesas huérfanas.
-
-No necesitás obsesión influencer; necesitás higiene reputacional compatible con eficiencia PyME real.
+1. Protegé lo que el cliente percibe primero (tiempo de respuesta, claridad del alcance).
+2. Diferenciá gastos que mejoran retención versus gastos decorativos que nadie nota.
 
 ## Proveedores y calidad indirecta
 
-Muchos emprendedores miran sólo la calidad interna pero delegan piezas críticas en proveedores sin un estándar escrito mínimo.
+Si dependés de terceros (materiales, subcontratistas, plataformas), tu calidad depende parcialmente de ellos. Acordá explícitamente:
 
-Acordá explícitamente:
+- ¿Qué cuenta como entrega aceptable?
+- ¿Cuántos defectos tolerás antes de escalar el problema?
+- ¿En cuánto tiempo tiene que responder el proveedor cuando algo falla?
 
-- qué cuenta como entrega aceptable en bullets verificables;
-- cuántos defectos tolerás antes de escalar el problema formalmente;
-- en cuánto tiempo tiene que responder el proveedor cuando algo rompe una promesa frente al cliente final.
-
-Esto protege tu marca cuando la cadena depende de terceros y vos sos la cara visible ante compradores locales que valoran consistencia por sobre discursos grandes.
+Esto protege tu marca cuando la cadena depende de otros y vos sos la cara visible ante el cliente.
 
 ## Señales de alerta
 
-- retrabajo sistemático (>20% del tiempo);
-- precios que no cubren corrección de errores humanos repetidos;
-- excusas culturales (“acá así funciona”) cuando datos muestran insatisfacción.
+- Retrabajo sistemático (más del 20% del tiempo dedicado a corregir errores repetidos).
+- Precios que no cubren el costo de corrección de errores humanos recurrentes.
+- Justificaciones culturales ("acá siempre fue así") cuando los datos muestran insatisfacción.
 
-## Para ir más allá
+## Para profundizar
 
-- Deming y pensamiento **calidad total** en versión divulgativa — útil por cultura de mejora continua sin buzzwords vacíos.
-- Lean startup aplicado a **operaciones** no sólo producto (visualiza desperdicios ocultos).
-- Literatura sobre **Jobs To Be Done** para alinear definición de calidad con trabajo que el cliente te contrata para hacer.
+- W. Edwards Deming: pensamiento de mejora continua en versión divulgativa (útil por cultura de sistema, no por buzzwords).
+- Lean aplicado a operaciones (no solo a producto): visualizar desperdicios ocultos en el proceso.
+- Jobs To Be Done: alinear la definición de calidad con el trabajo que el cliente te contrata para hacer.
 
 ---
 
@@ -116,4 +140,4 @@ Esto protege tu marca cuando la cadena depende de terceros y vos sos la cara vis
 
 ---
 
-*[← Compromiso](02-03-Compromiso.md) · [↑ Módulo 02 — CCEs: Realización](02-00-Vision-General.md) · [🏠 Índice de la Inmersión](../README.md)*
+*[← Compromiso](02-03-Compromiso.md) · [↑ Módulo 02](02-00-Vision-General.md) · [🏠 Índice de la Inmersión](../README.md)*

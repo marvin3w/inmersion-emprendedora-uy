@@ -1,111 +1,138 @@
 # Búsqueda de oportunidades e iniciativa
 
-La **búsqueda de oportunidades e iniciativa** es la CCE que impide que tu negocio sea pura reacción. En criollo: es la combinación de **curiosidad dirigida** + **primer paso antes del permiso eterno**.
+> ← [Visión General del Módulo](02-00-Vision-General.md) · [🏠 Índice](../README.md) · [Persistencia →](02-02-Persistencia.md)
 
-Empretec Uruguay trabaja esta característica porque mercados cambian rápido y los sistemas formales de información llegan tarde para quien espera manual oficial. La iniciativa inteligente es lo que convierte datos públicos, conversaciones de café y errores operativos en **movidas**.
+## Qué es esta CCE
 
-## El mapa mental del emprendedor que ve lo que otros ignoran
+La **búsqueda de oportunidades e iniciativa** es la capacidad de detectar posibilidades donde otros ven rutina, y de dar el primer paso sin esperar condiciones perfectas.
 
-La oportunidad casi nunca llega como cartel luminoso. Suele aparecer como:
+En términos prácticos, combina dos habilidades:
 
-- fricción repetida (“siempre pasa que…”);
-- costo oculto (“la gente pierde tiempo en…”);
-- regulación nueva que cambió incentivos;
-- tecnología barata que habilitó un canal antes caro;
-- competencia mediocre que educó el mercado pero no lo satisface.
+- **Curiosidad dirigida**: observar el entorno con atención a problemas recurrentes, necesidades no satisfechas y cambios que crean espacios nuevos.
+- **Acción temprana**: moverse antes de tener certeza absoluta, asumiendo que la información perfecta no existe y que la acción genera datos que la reflexión sola no produce.
 
-La iniciativa consiste en **formular hipótesis** sobre esas fricciones y **correr micro-acciones** que las validan o las matan rápido.
+## Por qué importa desde el inicio
 
-## Entrenamiento sistemático del “radar”
+No necesitás tener un negocio para entrenar esta CCE. Todo proceso de creación comienza aquí:
 
-### Reconocimiento de patrones
+- Elegir una carrera nueva es detectar una oportunidad.
+- Proponer una mejora en tu trabajo actual es iniciativa.
+- Investigar precios de materiales antes de cotizar una obra es búsqueda activa.
 
-Llevá un cuaderno digital simple durante tres semanas:
+La oportunidad raramente llega con señal evidente. Suele aparecer como:
 
-- tres observaciones diarias del tipo “algo funcionó mal para alguien”;
-- una hipótesis de por qué;
-- una posible micro-prueba (encuesta breve, prototipo manual, llamado exploratorio).
+- Una fricción repetida ("siempre pasa que...").
+- Un costo oculto ("la gente pierde tiempo en...").
+- Una regulación nueva que cambió incentivos.
+- Una tecnología accesible que habilitó un canal antes caro.
+- Un competidor mediocre que educó al mercado pero no lo satisface.
 
-El objetivo no es tener insights geniales desde el día uno; es **calibrar tu filtro**. Como entrenás un músculo: repetición + feedback.
+La iniciativa consiste en **formular hipótesis** sobre esas fricciones y **ejecutar acciones pequeñas** que las validen o las descarten rápido.
 
-### Brechas de mercado sin fantasía de unicornio
+## Árbol de decisión: ¿dónde está mi oportunidad?
 
-En Uruguay los mercados son chicos comparados con megaciudades latinoamericanas; eso es ventaja si lo interpretás bien:
+```
+¿Detectaste un problema que se repite?
+├── NO → Observá durante 7 días: anotá 3 fricciones diarias que veas en tu entorno.
+└── SÍ → ¿Ese problema afecta a más personas además de vos?
+    ├── NO → Puede ser molestia personal, no oportunidad de mercado. Buscá otro.
+    └── SÍ → ¿Esas personas pagarían por resolverlo?
+        ├── NO SABÉS → Preguntá a 5 personas directamente (no amigos cercanos).
+        ├── NO → El problema existe pero no tiene presupuesto. Buscá otro.
+        └── SÍ → Tenés una hipótesis viable. Diseñá un micro-experimento.
+```
 
-- podés llegar con menos volumen inicial si tu ticket y retención tienen sentido;
-- comunidades profesionales son densas (la reputación viaja);
-- podés conversar con usuarios sin intermediarios gigantes.
+## Entrenamiento del "radar" de oportunidades
 
-Buscar brechas acá significa preguntar **quién paga hoy**, **con qué alternativa mediocre**, **qué cambiaría la decisión**.
+### Reconocimiento de patrones (ejercicio de 14 días)
+
+Llevá un registro simple (cuaderno, nota en el teléfono) durante dos semanas:
+
+- **Observación**: algo que funcionó mal para alguien (dato concreto, sin interpretación).
+- **Hipótesis**: por qué creés que ocurre.
+- **Micro-prueba posible**: qué harías mañana en 30 minutos para verificar si tu hipótesis tiene fundamento.
+
+El objetivo no es tener ideas brillantes desde el día uno. Es **calibrar tu filtro**: aprender a distinguir entre quejas pasajeras y patrones consistentes.
+
+### Brechas de mercado en contexto uruguayo
+
+En Uruguay los mercados son pequeños en comparación con grandes ciudades latinoamericanas. Esto es una ventaja si se interpreta correctamente:
+
+- Se puede comenzar con volumen inicial bajo si el precio y la retención tienen lógica.
+- Las comunidades profesionales son densas (la reputación circula rápido).
+- Es posible conversar directamente con usuarios finales sin intermediarios.
+
+Buscar brechas significa preguntar: **¿quién paga hoy?**, **¿por qué alternativa mediocre?**, **¿qué cambiaría su decisión?**
 
 ### Problemas como semillas de propuesta de valor
 
-Cuando escuchás “esto es un problema”, convertilo en checklist:
+Cuando escuchás "esto es un problema", convertilo en checklist:
 
 1. ¿Es frecuente o anecdótico?
-2. ¿Hay presupuesto mental para pagarlo?
-3. ¿Podés demonstrar resultado en semanas, no años?
+2. ¿Hay disposición a pagar por resolverlo?
+3. ¿Puedo demostrar resultado en semanas, no en años?
 4. ¿Hay barreras legales o culturales fuertes?
 
-Si hay dos “no” fuertes, la oportunidad puede ser hobby benévolo, no negocio.
+Si hay dos respuestas negativas fuertes, la oportunidad probablemente no sea negocio viable en este momento.
 
-## Ejercicio 1: diario de oportunidades (14 días)
+## Si estoy empezando desde cero
 
-Cada noche registrá:
+Todavía no tenés clientes ni servicio definido. El ejercicio se adapta así:
 
-- **Observación** (dato pelado).
-- **Posible cliente** (segmento específico).
-- **Siguiente paso de iniciativa** (acción que tomarías mañana si tuvieras 45 minutos).
+**Ejercicio adaptado: mapa de dolores observados (7 días)**
 
-Al cabo de dos semanas vas a notar si tu problema es falta de ideas o **falta de canalización** (demasiadas ideas sin cierre).
+Elegí un entorno donde pasás tiempo (tu barrio, tu grupo de WhatsApp, tu rubro de trabajo actual). Durante 7 días, registrá:
 
-## Ejercicio 2: mapa de dolores del cliente
+| Día | Problema que observé | ¿A quién afecta? | ¿Qué haría mañana para saber más? |
+|-----|---------------------|-------------------|-----------------------------------|
+| 1 | Ejemplo: vecino no consigue electricista confiable para arreglo menor | Propietarios de casas antiguas | Preguntar a 3 vecinos si les pasa seguido |
 
-Elegí un segmento hipotético y dibujá su jornada:
+Al final de la semana, revisá: ¿hay algún problema que apareció más de una vez? Ese es tu candidato para investigar más.
 
-1. disparadores que lo mueven a buscar solución;
-2. puntos donde pierde tiempo o dinero;
-3. momentos donde decide pagar o postergar;
-4. miedos posteriores a la compra (arrepentimiento post-compra).
+**Ejercicio adaptado: cadena de diagnóstico (lógica condicional)**
 
-El mapa no tiene que ser arte; tiene que revelar **tres dolores pagables**. Si no aparecen, refiná segmento.
+Supongamos que querés ofrecer un servicio (por ejemplo, reformas menores). Usá esta cadena para diagnosticar dónde estás:
 
-## Anti-errores comunes de iniciativa
+```
+¿La gente sabe que existís?
+├── NO → Tu primer problema es visibilidad. Acción: publicá 1 anuncio simple.
+└── SÍ → ¿Te contactan para preguntar?
+    ├── NO → El mensaje no comunica lo que resolvés. Acción: revisá tu texto.
+    └── SÍ → ¿Piden presupuesto?
+        ├── NO → Lo que mostrás no genera confianza suficiente. Acción: agregá fotos de trabajos anteriores o testimonio.
+        └── SÍ → ¿Cierran el trato?
+            ├── NO → El precio no coincide con la expectativa. Acción: preguntá qué esperaban pagar.
+            └── SÍ → ¿Quedan satisfechos y te recomiendan?
+                ├── NO → El proceso de entrega tiene un problema. Acción: preguntá qué falló.
+                └── SÍ → Tu sistema funciona. Escalá volumen.
+```
 
-- **Confundir movimiento con progreso:** mil tareas sin hipótesis.
-- **Copiar modelo extranjero sin traducción local:** pricing, confianza y pagos cambian el diseño.
-- **Pedir feedback solo a amigos:** sesgo brutal.
+Esta cadena aplica a cualquier servicio o producto. El valor está en identificar **en qué eslabón** se corta la cadena, para no intentar arreglar todo al mismo tiempo.
+
+## Errores comunes de iniciativa
+
+- **Confundir movimiento con progreso**: hacer muchas cosas sin hipótesis clara de qué se espera lograr con cada una.
+- **Copiar modelo externo sin adaptación local**: precios, niveles de confianza y métodos de pago varían según el contexto.
+- **Pedir opinión solo a personas cercanas**: el sesgo de cortesía distorsiona la información. Los datos válidos vienen de personas que representan al cliente potencial real.
 
 ## Integración con Empretec Uruguay
 
-Las instancias grupales son laboratorio ideal para contrastar observaciones sin exponerte solo ante sesgos propios. Traé evidencias modestas (“hablé con cinco usuarios”) en lugar de opiniones grandes (“el mercado está listo”). Ahí empieza verdad útil.
+Las instancias grupales del programa son un espacio adecuado para contrastar observaciones con otros participantes. La recomendación es llevar evidencias modestas ("hablé con cinco personas y tres mencionaron el mismo problema") en lugar de opiniones generales ("el mercado está listo"). La verdad útil comienza con datos pequeños pero concretos.
 
-## Lecturas típicas sobre error local de iniciativa
+## Iniciativa sin parálisis
 
-En Uruguay aparecen falsos positivos recurrentes dignos de mencionar pedagógica:
+Dos reglas prácticas:
 
-**La “oportunidad turística” eternamente próxima.** Muchos proyectos imaginan volumen extrapolando temporada alta sin modelo off-season defendible.
+1. **Ventana de decisión máxima**: si pasaron 10 días útiles analizando una idea sin ejecutar ningún micro-experimento, tomá una decisión explícita ("pauso", "avanzo", "descarto") y registrala. La indefinición gasta más energía que una decisión equivocada reversible.
+2. **Esfuerzo proporcional al riesgo**: cuánto tiempo invertís investigando debe ser proporcional al costo irreversible del siguiente paso. Mandar un mensaje a un potencial cliente es barato; firmar un alquiler comercial es caro. Investigá más antes de lo caro.
 
-**La hiper-confianza en exportación como salvación.** Exportar puede ser palanca poderosa pero introduce costos ocultos (certificaciones, logística, cobranzas internacionales). La iniciativa útil primero dimensiona cadena completa antes del storytelling patriótico.
+La iniciativa del marco Empretec es deliberada: moverse primero donde el costo de equivocarse es bajo y donde el aprendizaje comprime incertidumbre real.
 
-**El síndrome del MVP eternamente ficticio.** Si tu iniciativa siempre está “a punto” pero jamás cotiza precio frente a cliente real, lo que falta no es más inspiración sino paso vergonzoso pequeño de mercado.
+## Para profundizar
 
-Cuando notes uno de estos patrones en vos mismo/a, cambiá la métrica de semana siguiente por algo más humilde pero falsificable (“envío tres cotizaciones” versus “pienso modelo perfecto”).
-
-## Combina iniciativa con información sin parálisis infinito
-
-Dos reglas prácticas para adultos ocupados:
-
-1. **Ventana de decisión máxima:** si pasaron diez días útiles mirando una misma idea sin ningún micro-experimento ejecutado, cerrás exploración racional temporalmente con decisión explícita “pauso/seguimos/charto”.
-2. **Umbral de evidencia proporcional:** cuánto tiempo invertís investigando debe ser proporcional al costo irreversible potencial del siguiente paso. Contratar tres personas es caro; mandar mail incómodo es barato.
-
-La iniciativa Empretec es deliberada: mover primero donde el costo de equivocarte es barato y donde el aprendizaje comprime incertidumbre verdadera.
-
-## Para ir más allá
-
-- Steve Blank y Eric Ries en versión aplicada sobre **customer discovery** y experimentación (traducciones y resúmenes en español abundan).
-- Teresa Torres sobre **continuous discovery** — ritmo semanal de entrevistas + síntesis.
-- Literatura sobre **effectuation** (Saras Sarasvathy) si querés pensar oportunidades bajo restricción real típica de PyME.
+- Steve Blank y Eric Ries: descubrimiento de clientes y experimentación (traducciones al español disponibles).
+- Teresa Torres: descubrimiento continuo con ritmo semanal de entrevistas y síntesis.
+- Saras Sarasvathy: effectuation, pensar oportunidades bajo restricciones reales (típico de PyME).
 
 ---
 
@@ -116,4 +143,4 @@ La iniciativa Empretec es deliberada: mover primero donde el costo de equivocart
 
 ---
 
-*[← Módulo 02 — CCEs: Realización](02-00-Vision-General.md) · [🏠 Índice de la Inmersión](../README.md)*
+*[← Visión General — Módulo 02](02-00-Vision-General.md) · [🏠 Índice de la Inmersión](../README.md)*

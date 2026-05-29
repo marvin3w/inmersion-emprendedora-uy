@@ -1,100 +1,129 @@
 # Cumplimiento del compromiso
 
-El **cumplimiento del compromiso** es la CCE que convierte talento disperso en **confianza acumulable**. Tu estrategia puede ser brillante; si tus clientes, socios y equipo no pueden creer tus plazos y tus promesas, el mercado te cobra caro en forma de retrabajo, cancelaciones y rumorología.
+> ← [Persistencia](02-02-Persistencia.md) · [🏠 Índice](../README.md) · [Calidad y Eficiencia →](02-04-Calidad-Eficiencia.md)
 
-Empretec Uruguay enfatiza esta característica porque en economías donde las relaciones son cortas de grados de separación, **la reputación es liquidez**: facilita crédito social, introducciones y tolerancia ante errores honestos.
+## Qué es esta CCE
 
-## Qué significa compromiso en práctica cotidiana
+El **cumplimiento del compromiso** es la CCE que convierte capacidad dispersa en **confianza acumulable**. Tu estrategia puede ser brillante, pero si tus clientes, socios o colaboradores no pueden confiar en tus plazos y tus promesas, el mercado responde con retrabajo, cancelaciones y desconfianza.
 
-Compromiso no es sacrificio espiritual; es **prediccibilidad ética**:
+En economías donde las redes profesionales son densas (como la uruguaya), **la reputación funciona como liquidez**: facilita crédito social, introducciones y tolerancia ante errores honestos.
 
-- decís lo que vas a hacer y lo hacés;
-- si surge imprevisto, comunicás temprano con opciones;
-- cerrás loops (facturas, feedback, entregables menores) sin que persigan tu respuesta.
+## Qué significa compromiso en la práctica
 
-Los mercados toleran imperfección cuando toleran claridad.
+Compromiso no es sacrificio ilimitado. Es **predicibilidad ética**:
 
-## Clientes: prometer menos y entregar más sin autofraude
+- Decís lo que vas a hacer y lo hacés.
+- Si surge un imprevisto, comunicás temprano con opciones.
+- Cerrás ciclos (facturas, feedback, entregables menores) sin que persigan tu respuesta.
 
-La técnica clásica **under-promise, over-deliver** mal aplicada lleva a cinismo corporativo; bien aplicada es conservadurismo honesto:
+Los mercados toleran imperfección cuando hay claridad. Lo que no toleran es incertidumbre sobre si vas a cumplir.
 
-1. Prometé plazos internos más cortos que externos (margen humano realista).
+## Árbol de decisión: ¿estoy cumpliendo?
+
+```
+¿Tengo compromisos abiertos con alguien (cliente, socio, proveedor, yo mismo)?
+├── NO SÉ → Hacé una lista ahora. Si no sabés qué prometiste, ya hay un problema.
+└── SÍ → ¿Están todos en plazo?
+    ├── SÍ → Revisá en 7 días. El compromiso es hábito, no evento.
+    └── NO → ¿Comunicaste el retraso antes de que lo descubran?
+        ├── SÍ → Bien. ¿Ofreciste nueva fecha concreta y la vas a cumplir?
+        │   ├── SÍ → Seguí adelante. Un retraso comunicado no destruye confianza.
+        │   └── NO → Definí fecha realista ahora. Prometer "pronto" no es compromiso.
+        └── NO → Comunicá hoy. Cada día de silencio erosiona más que el retraso en sí.
+```
+
+## Clientes: prometer con realismo
+
+La técnica de prometer menos y entregar más funciona cuando se aplica con honestidad:
+
+1. Estimá plazos internos más cortos que los externos (margen humano realista).
 2. Desglosá entregables con hitos verificables.
-3. Si mejorás velocidad, sorprendés positivamente sin usar humo.
+3. Si mejorás velocidad, la sorpresa positiva refuerza confianza sin generar expectativas infladas.
 
-Evitá la promesa inspiradora que sabés que depende de magia (“para el viernes está todo el sistema”). Preferí rangos (“entre martes y miércoles tenés MVP usable”) si hay variabilidad técnica real.
+Evitá la promesa ambiciosa que depende de condiciones ideales ("para el viernes está todo"). Preferí rangos cuando hay variabilidad real ("entre martes y miércoles tenés la primera versión usable").
 
-## Socios y equipo: acuerdos explícitos > telepatía
+## Socios y equipo: acuerdos explícitos
 
 Muchos conflictos nacen de supuestos silenciosos:
 
-- quién decide pricing;
-- cómo reparten ventas administrativas;
-- qué nivel de disponibilidad esperan fuera de horario.
+- ¿Quién decide precios?
+- ¿Cómo se distribuyen los ingresos?
+- ¿Qué nivel de disponibilidad se espera fuera de horario?
 
-Un compromiso fuerte incluye **documentación liviana**: actas cortas post reunión, checklist semanal compartido, definición de “urgente”.
+Un compromiso sólido incluye documentación liviana: resumen breve después de cada reunión importante, checklist semanal compartido, definición de qué cuenta como "urgente".
 
-## Compromiso contigo mismo/a
+## Compromiso con vos mismo
 
-Los emprendedores traicionamos nuestra palabra personal antes que la ajena:
+Los emprendedores suelen incumplir primero su propia palabra:
 
-- agenda sabotaje por falta de límites con clientes hiperdemandantes;
-- salud financiera personal ignorada hasta crisis.
+- Agenda saboteada por falta de límites con demandas externas.
+- Salud financiera personal ignorada hasta que hay crisis.
 
-Ejercicio mental: tratá tus compromisos internos como si fueran contratos frente a un socio invisible.
+Ejercicio mental: tratá tus compromisos internos como si fueran acuerdos con un socio que va a pedir cuentas.
 
-## Autoevaluación rápida (reflexión guiada)
+## Si estoy empezando desde cero
 
-Respondé con ejemplos de los últimos 60 días:
+No tenés clientes todavía, pero ya podés entrenar esta CCE con compromisos personales y del entorno inmediato.
 
-1. ¿Cuántas promesas explícitas hice y cuántas cumplí sin necesidad de recordatorio externo?
-2. ¿Cuántas tuve que reprogramar? ¿Comunicación fue temprana o tardía?
-3. ¿Hay compromisos pendientes **silenciosos** que evito mirar?
+**Ejercicio adaptado: auditoría de compromisos (1 semana)**
 
-Si hay más de tres pendientes silenciosos, tu problema puede ser sobrecarga real o **gestión del NO** deficiente.
+| Compromiso que hice | ¿Con quién? | Fecha prometida | ¿Cumplí? | Si no: ¿comuniqué antes? |
+|--------------------|--------------|-----------------|-----------|-----------------------------|
+| Ejemplo: enviar presupuesto al vecino | Vecino | Lunes | No | No, me olvidé |
 
-## Plantilla micro para mejorar esta CCE esta semana
+Al final de la semana:
+1. ¿Cuántos compromisos hice sin ser consciente?
+2. ¿Cuántos incumplí por olvido versus por imposibilidad real?
+3. Si el problema es olvido: ¿tengo un sistema de registro? (agenda, lista, recordatorio).
 
-- **Lista de compromisos abiertos** (máximo una página).
-- **Estado:** verde / amarillo / rojo + fecha nueva si corresponde.
-- **Un solo compromiso rojo que vas a cerrar o renégociar en 48 horas.**
+**Cadena de diagnóstico: ¿por qué no cumplo?**
 
-Renégociar proactivamente también cumple compromiso ético si es transparente.
+```
+¿Incumpliste algo esta semana?
+├── NO → Bien. ¿Estás asumiendo compromisos suficientes o evitando comprometerte?
+│   ├── EVITANDO → El problema no es cumplimiento, es iniciativa (volvé a 02-01).
+│   └── COMPROMETIDO → Seguí así. Revisá de nuevo en 7 días.
+└── SÍ → ¿Fue por olvido o por imposibilidad?
+    ├── OLVIDO → Necesitás un sistema de registro. Acción: elegí 1 herramienta (agenda, app, cuaderno) y usala 7 días.
+    └── IMPOSIBILIDAD → ¿Prometiste algo que no podías cumplir?
+        ├── SÍ → El problema está en cómo estimás. Acción: agregá 30% de margen a tu próxima promesa.
+        └── NO (fue imprevisto real) → ¿Comunicaste temprano?
+            ├── SÍ → Está bien. Los imprevistos existen; la comunicación los absorbe.
+            └── NO → La próxima vez, comunicá en el momento que detectás el problema. No esperar.
+```
 
-## Cómo se construye reputación de compromiso en mercados “de laburo”
+## Cómo se construye reputación de compromiso
 
-En redes profesionales densas tipo Montevideo y ciudades medianas uruguayas, la reputación funciona como **memoria distribuida**: la gente recuerda cómo cerrás loops incluso cuando el proyecto puntual fracasa.
+En redes profesionales densas, la reputación funciona como memoria distribuida: las personas recuerdan cómo cerrás procesos incluso cuando el proyecto puntual no prosperó.
 
-Conductas que suman disproportionadamente:
+**Conductas que suman desproporcionadamente:**
 
-- mail de síntesis después de reuniones (“quedamos que”, “yo envío”, “vos revisás”) en menos de veinticuatro horas cuando fue intensa;
-- facturas y pagos administrativos ordenados incluso cuando hay estrés creativo (contrasta dramáticamente con competencia informal caótica);
-- claridad cuando algo va fuera de alcance técnico (“no puedo prometer fecha X pero sí entrega parcial Y el día Z”).
+- Mensaje de resumen después de reuniones ("quedamos en que...", "yo envío...", "vos revisás...") en menos de 24 horas.
+- Facturas y pagos administrativos ordenados, incluso bajo estrés creativo.
+- Claridad cuando algo excede tu capacidad ("no puedo prometer fecha X, pero sí entrega parcial Y el día Z").
 
-Conductas que restan fuerte:
+**Conductas que restan fuertemente:**
 
-- ghosting liviano cuando aparecen conflictos menores (una ausencia así puede interpretarse como falta de seriedad sistémica);
-- sobreprometer por ansiedad competitiva en reuniones públicas donde después no hay ejecución realista.
+- Silencio cuando aparecen conflictos menores (puede interpretarse como falta de seriedad sistémica).
+- Prometer en público lo que no se puede cumplir en privado por ansiedad competitiva.
 
-Tu objetivo Empretec acá no es moralismo abstracto sino **reducción de fricción transaccional futura**.
+## Compromiso y finanzas personales
 
-## Compromiso interno sobre datos financieros
+Emprendedores incumplen compromiso consigo mismos ignorando números incómodos hasta la crisis: cuentas por cobrar viejas, impuestos postergados sin plan, liquidez imaginada.
 
-Emprendedores rompen compromiso consigo mismo ignorando números vergonzosos hasta crisis súbita: cuentas por cobrar viejas, impuestos postergados sin plan, liquidez inventada mentalmente.
+Si querés cumplir compromisos externos de forma estable, necesitás un ritual financiero semanal mínimo:
 
-Si querés cumplir compromiso externamente estable, necesitás ritual financiero semanal mínimo:
+- ¿Cuánto efectivo hay realmente disponible (no cuánto "debería haber")?
+- ¿Cuántos compromisos monetarios pendientes hay con fecha explícita?
+- ¿Qué cobro falta para cerrar el mes sin estrés evitable?
 
-- cuánto efectivo hay realmente disponible (no sólo facturación posible fantástica);
-- cuántos compromisos monetarios pendientes hay con fecha explícita;
-- qué venta cobrada falta para cerrar mes sin drama innecesario.
+Este hábito protege tu palabra en el mercado porque protege tu capacidad operativa real.
 
-Este hábito sucio pero honesto protege tu palabra en mercado porque protege tu capacidad operativa real.
+## Para profundizar
 
-## Para ir más allá
-
-- Literatura sobre **service recovery** en experiencia del cliente — cómo convertir fallas comunicadas bien en lealtad.
-- Libros breves sobre **negociación colaborativa** (Fisher/Ury en versión moderna) para alinear expectativas sin sangre.
-- Guías locales sobre contratos y condiciones generales para formalizar sin amiguismo informal peligroso (consultá especialista cuando corresponda).
+- Literatura sobre recuperación de servicio (service recovery): cómo convertir fallas bien comunicadas en lealtad.
+- Negociación colaborativa (Fisher y Ury): alinear expectativas sin confrontación improductiva.
+- Guías locales sobre contratos y condiciones generales para formalizar acuerdos sin depender de la informalidad (consultar especialista cuando corresponda).
 
 ---
 
@@ -105,4 +134,4 @@ Este hábito sucio pero honesto protege tu palabra en mercado porque protege tu 
 
 ---
 
-*[← Persistencia](02-02-Persistencia.md) · [↑ Módulo 02 — CCEs: Realización](02-00-Vision-General.md) · [🏠 Índice de la Inmersión](../README.md)*
+*[← Persistencia](02-02-Persistencia.md) · [↑ Módulo 02](02-00-Vision-General.md) · [🏠 Índice de la Inmersión](../README.md)*
